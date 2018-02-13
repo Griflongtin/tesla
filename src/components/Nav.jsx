@@ -30,12 +30,12 @@ function Nav(){
         <Link to="/modelS" style={linkStyles}>MODEL S</Link>
         <Link to="/modelX" style={linkStyles}>MODEL X</Link>
         <Link to="/model3" style={linkStyles}>MODEL 3</Link>
-        <Link to="/" style={linkStyles}>ROADSTER</Link>
-        <Link to="/" style={linkStyles}>ENERGY</Link>
+        <Link to="/roadster" style={linkStyles}>ROADSTER</Link>
+        <Link to="/energy" style={linkStyles}>ENERGY</Link>
       </div>
       <div>
-        <Link to="/" style={linkStyles}>SHOP</Link>
-        <Link to="/" style={linkStyles}>SIGN IN</Link>
+        <Link to="/shop" style={linkStyles}>SHOP</Link>
+        <Link to="/signIn" style={linkStyles}>SIGN IN</Link>
       </div>
     </div>
   );

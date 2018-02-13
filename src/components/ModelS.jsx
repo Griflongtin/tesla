@@ -2,7 +2,6 @@ import React from 'react';
 import Nav from './Nav';
 import modelS from './../assets/images/modelS.jpg';
 import ModelXButton from './ModelXButton';
-import { Link } from 'react-router-dom';
 
 function ModelS(){
   const modelSDiv = {

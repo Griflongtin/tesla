@@ -19,6 +19,9 @@ function App() {
             font-family: 'Source Sans Pro', sans-serif;
             width: 100%;
           }
+          button {
+            outline: 0;
+          }
           `}</style>
       <Switch>
         <Route exact path='/' component={Body} />

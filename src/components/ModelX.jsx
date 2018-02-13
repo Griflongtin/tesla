@@ -2,7 +2,6 @@ import React from 'react';
 import Nav from './Nav';
 import dontPanic from './../assets/images/dont-panic.jpg';
 import ModelXButton from './ModelXButton';
-import { Link } from 'react-router-dom';
 
 function ModelX(){
   const modelXDiv = {
